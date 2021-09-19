@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL.Webapi", "QL.Webapi\QL.Webapi.csproj", "{EA2181E5-CEDB-4B21-B136-2AC7D8029388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FX.Data", "FanxiBase.data\FX.Data.csproj", "{9D218A78-7690-4592-8EBC-2473E2436005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode", "QRCode\QRCode.csproj", "{33E7932D-A55D-4306-AAFB-9162AF8FB202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2181E5-CEDB-4B21-B136-2AC7D8029388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2181E5-CEDB-4B21-B136-2AC7D8029388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2181E5-CEDB-4B21-B136-2AC7D8029388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2181E5-CEDB-4B21-B136-2AC7D8029388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D218A78-7690-4592-8EBC-2473E2436005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D218A78-7690-4592-8EBC-2473E2436005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D218A78-7690-4592-8EBC-2473E2436005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D218A78-7690-4592-8EBC-2473E2436005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E7932D-A55D-4306-AAFB-9162AF8FB202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E7932D-A55D-4306-AAFB-9162AF8FB202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E7932D-A55D-4306-AAFB-9162AF8FB202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E7932D-A55D-4306-AAFB-9162AF8FB202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B302D91-B158-4EC4-84E4-E95FCE9D5E06}
+	EndGlobalSection
+EndGlobal

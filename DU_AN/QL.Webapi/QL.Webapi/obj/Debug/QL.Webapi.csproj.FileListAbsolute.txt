@@ -1,0 +1,281 @@
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Properties\Resources\officeobject.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Properties\Resources\tahoma.ttf
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\QL.Webapi.dll.config
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\QL.Webapi.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\QL.Webapi.pdb
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\csc.exe
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\csc.exe.config
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\csc.rsp
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\csi.exe
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\csi.exe.config
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\csi.rsp
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.AppContext.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Collections.Immutable.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Console.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Globalization.Calendars.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.IO.Compression.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.IO.FileSystem.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Net.Http.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Net.Sockets.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Reflection.Metadata.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.ValueTuple.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Xml.XPath.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\vbc.exe
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\vbc.exe.config
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\vbc.rsp
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\VBCSCompiler.exe
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\VBCSCompiler.exe.config
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Antlr3.Runtime.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Castle.Core.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Castle.Windsor.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\FX.Common.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\FX.Context.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\FX.Core.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\FX.Data.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\IdentityManagement.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\log4net.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Options.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Primitives.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.IdentityModel.Logging.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.IdentityModel.Tokens.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Net.Http.Headers.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Web.Infrastructure.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Newtonsoft.Json.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\NHibernate.ByteCode.Castle.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\NHibernate.Caches.SysCache.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\NHibernate.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\QRCode.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Buffers.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.ComponentModel.Annotations.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Memory.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Net.Http.Formatting.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Numerics.Vectors.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Text.Encodings.Web.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Cors.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Helpers.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Http.Cors.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Http.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Http.WebHost.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Mvc.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Optimization.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Razor.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.WebPages.Deployment.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.WebPages.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.WebPages.Razor.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\WebGrease.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\FX.Utils.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\itextsharp.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Iesi.Collections.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\FX.Data.pdb
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\FX.Common.pdb
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\FX.Common.dll.config
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\FX.Context.pdb
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\IdentityManagement.pdb
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\QRCode.pdb
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Options.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Primitives.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.IdentityModel.Logging.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.IdentityModel.Tokens.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Net.Http.Headers.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Buffers.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Memory.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Numerics.Vectors.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Text.Encodings.Web.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Http.Cors.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Newtonsoft.Json.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Net.Http.Formatting.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Helpers.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Http.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Http.WebHost.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Mvc.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Optimization.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Razor.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.WebPages.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.WebPages.Deployment.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.WebPages.Razor.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Antlr3.Runtime.pdb
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\obj\Debug\QL.Webapi.csproj.AssemblyReference.cache
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\obj\Debug\QL.Webapi.csproj.CoreCompileInputs.cache
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\obj\Debug\QL.Webapi.csproj.CopyComplete
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\obj\Debug\QL.Webapi.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\obj\Debug\QL.Webapi.pdb
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\QL.Webapi.dll.config
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\QL.Webapi.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\QL.Webapi.pdb
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\csc.exe
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\csc.exe.config
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\csc.rsp
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\csi.exe
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\csi.exe.config
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\csi.rsp
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.AppContext.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Console.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.IO.Compression.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Net.Http.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.ValueTuple.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\vbc.exe
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\vbc.exe.config
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\vbc.rsp
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Antlr3.Runtime.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Castle.Core.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Castle.Windsor.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\FX.Common.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\FX.Context.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\FX.Core.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\FX.Data.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\IdentityManagement.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\log4net.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Options.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Newtonsoft.Json.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\NHibernate.ByteCode.Castle.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\NHibernate.Caches.SysCache.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\NHibernate.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\QRCode.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Buffers.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.ComponentModel.Annotations.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Memory.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Net.Http.Formatting.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Numerics.Vectors.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Text.Encodings.Web.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Cors.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Helpers.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Http.Cors.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Http.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Http.WebHost.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Mvc.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Optimization.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Razor.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.WebPages.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.WebPages.Razor.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\WebGrease.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\itextsharp.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\FX.Utils.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Iesi.Collections.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\QRCode.pdb
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Options.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Buffers.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Memory.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Numerics.Vectors.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Text.Encodings.Web.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Http.Cors.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Newtonsoft.Json.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Net.Http.Formatting.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Helpers.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Http.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Http.WebHost.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Mvc.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Optimization.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.Razor.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.WebPages.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\System.Web.WebPages.Razor.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Antlr3.Runtime.pdb
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\obj\Debug\QL.Webapi.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\obj\Debug\QL.Webapi.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\obj\Debug\QL.Webapi.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\obj\Debug\QL.Webapi.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QL.Webapi\obj\Debug\QL.Webapi.pdb

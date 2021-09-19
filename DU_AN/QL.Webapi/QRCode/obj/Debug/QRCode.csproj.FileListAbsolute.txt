@@ -1,0 +1,48 @@
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\Properties\Resources\officeobject.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\Properties\Resources\tahoma.ttf
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\QRCode.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\QRCode.pdb
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\FX.Common.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\FX.Context.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\FX.Core.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\FX.Data.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\IdentityManagement.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\log4net.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\NHibernate.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\FX.Utils.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\itextsharp.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\Newtonsoft.Json.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\System.Web.Mvc.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\Castle.Windsor.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\Iesi.Collections.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\Castle.Core.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\FX.Data.pdb
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\FX.Common.pdb
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\FX.Common.dll.config
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\IdentityManagement.pdb
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\Newtonsoft.Json.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\bin\Debug\System.Web.Mvc.xml
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\obj\Debug\QRCode.csproj.AssemblyReference.cache
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\obj\Debug\QRCode.csproj.CoreCompileInputs.cache
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\obj\Debug\QRCode.csproj.CopyComplete
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\obj\Debug\QRCode.dll
+D:\WorkPlace\HOME\DU_AN\QL.Webapi\QRCode\obj\Debug\QRCode.pdb
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\bin\Debug\QRCode.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\bin\Debug\QRCode.pdb
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\bin\Debug\FX.Common.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\bin\Debug\FX.Context.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\bin\Debug\FX.Core.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\bin\Debug\FX.Data.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\bin\Debug\IdentityManagement.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\bin\Debug\log4net.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\bin\Debug\itextsharp.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\bin\Debug\Castle.Windsor.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\bin\Debug\NHibernate.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\bin\Debug\FX.Utils.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\bin\Debug\Castle.Core.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\bin\Debug\Iesi.Collections.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\obj\Debug\QRCode.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\obj\Debug\QRCode.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\obj\Debug\QRCode.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\obj\Debug\QRCode.dll
+C:\Users\nguye\OneDrive\Desktop\New folder\DU_AN\QL.Webapi\QRCode\obj\Debug\QRCode.pdb

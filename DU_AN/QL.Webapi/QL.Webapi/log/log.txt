@@ -1,0 +1,688 @@
+2021-09-16 21:36:23,146 ERROR QL.Webapi.Bootstrapper - Error initializing application. 
+Castle.MicroKernel.SubSystems.Conversion.ConverterException: Could not convert from 'IdentityManagement.Authorization.eContractAuthentication, eContract' to System.Type - Maybe type could not be found
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion[TTarget](String value)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUpComponents(IConfiguration[] configurations, IWindsorContainer container, IConversionManager converter)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUp(IWindsorContainer container, IConfigurationStore store)
+   at Castle.Windsor.WindsorContainer.RunInstaller()
+   at Castle.Windsor.WindsorContainer..ctor(IConfigurationInterpreter interpreter)
+   at QL.Webapi.Bootstrapper.InitializeContainer() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Bootstrapper.cs:line 21
+2021-09-16 21:39:24,942 ERROR QL.Webapi.Bootstrapper - Error initializing application. 
+Castle.MicroKernel.SubSystems.Conversion.ConverterException: Could not convert from 'IdentityManagement.Authorization.eContractAuthentication, eContract' to System.Type - Maybe type could not be found
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion[TTarget](String value)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUpComponents(IConfiguration[] configurations, IWindsorContainer container, IConversionManager converter)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUp(IWindsorContainer container, IConfigurationStore store)
+   at Castle.Windsor.WindsorContainer.RunInstaller()
+   at Castle.Windsor.WindsorContainer..ctor(IConfigurationInterpreter interpreter)
+   at QL.Webapi.Bootstrapper.InitializeContainer() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Bootstrapper.cs:line 21
+2021-09-16 21:43:09,178 ERROR QL.Webapi.Bootstrapper - Error initializing application. 
+Castle.MicroKernel.SubSystems.Conversion.ConverterException: Could not convert from 'IdentityManagement.Authorization.eContractAuthentication, eContract' to System.Type - Maybe type could not be found
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion[TTarget](String value)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUpComponents(IConfiguration[] configurations, IWindsorContainer container, IConversionManager converter)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUp(IWindsorContainer container, IConfigurationStore store)
+   at Castle.Windsor.WindsorContainer.RunInstaller()
+   at Castle.Windsor.WindsorContainer..ctor(IConfigurationInterpreter interpreter)
+   at QL.Webapi.Bootstrapper.InitializeContainer() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Bootstrapper.cs:line 21
+2021-09-16 21:46:07,666 ERROR QL.Webapi.Bootstrapper - Error initializing application. 
+Castle.MicroKernel.SubSystems.Conversion.ConverterException: Could not convert from 'IdentityManagement.Authorization.eContractAuthentication, eContract' to System.Type - Maybe type could not be found
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion[TTarget](String value)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUpComponents(IConfiguration[] configurations, IWindsorContainer container, IConversionManager converter)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUp(IWindsorContainer container, IConfigurationStore store)
+   at Castle.Windsor.WindsorContainer.RunInstaller()
+   at Castle.Windsor.WindsorContainer..ctor(IConfigurationInterpreter interpreter)
+   at QL.Webapi.Bootstrapper.InitializeContainer() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Bootstrapper.cs:line 21
+2021-09-16 21:50:45,228 ERROR QL.Webapi.Bootstrapper - Error initializing application. 
+Castle.MicroKernel.SubSystems.Conversion.ConverterException: Could not convert from 'IdentityManagement.WebProviders.RBACMembershipProvider, IdentityManagement' to System.Type - Maybe type could not be found
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion[TTarget](String value)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUpComponents(IConfiguration[] configurations, IWindsorContainer container, IConversionManager converter)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUp(IWindsorContainer container, IConfigurationStore store)
+   at Castle.Windsor.WindsorContainer.RunInstaller()
+   at Castle.Windsor.WindsorContainer..ctor(IConfigurationInterpreter interpreter)
+   at QL.Webapi.Bootstrapper.InitializeContainer() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Bootstrapper.cs:line 21
+2021-09-16 22:00:19,754 ERROR QL.Webapi.Bootstrapper - Error initializing application. 
+Castle.MicroKernel.SubSystems.Conversion.ConverterException: Could not convert from 'IdentityManagement.WebProviders.IRBACMembershipProvider, IdentityManagement' to System.Type - Maybe type could not be found
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion[TTarget](String value)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUpComponents(IConfiguration[] configurations, IWindsorContainer container, IConversionManager converter)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUp(IWindsorContainer container, IConfigurationStore store)
+   at Castle.Windsor.WindsorContainer.RunInstaller()
+   at Castle.Windsor.WindsorContainer..ctor(IConfigurationInterpreter interpreter)
+   at QL.Webapi.Bootstrapper.InitializeContainer() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Bootstrapper.cs:line 21
+2021-09-16 22:00:45,753 ERROR QL.Webapi.Bootstrapper - Error initializing application. 
+Castle.MicroKernel.SubSystems.Conversion.ConverterException: Could not convert from 'IdentityManagement.WebProviders.IRBACMembershipProvider, IdentityManagement' to System.Type - Maybe type could not be found
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion[TTarget](String value)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUpComponents(IConfiguration[] configurations, IWindsorContainer container, IConversionManager converter)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUp(IWindsorContainer container, IConfigurationStore store)
+   at Castle.Windsor.WindsorContainer.RunInstaller()
+   at Castle.Windsor.WindsorContainer..ctor(IConfigurationInterpreter interpreter)
+   at QL.Webapi.Bootstrapper.InitializeContainer() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Bootstrapper.cs:line 21
+2021-09-16 22:01:34,755 ERROR QL.Webapi.Bootstrapper - Error initializing application. 
+Castle.MicroKernel.SubSystems.Conversion.ConverterException: Could not convert from 'IdentityManagement.Authorization.FanxiAuthenticationBase, IdentityManagement, IdentityManagement' to System.Type. ---> System.IO.FileLoadException: The given assembly name or codebase was invalid. (Exception from HRESULT: 0x80131047)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase)
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.GetType(String name)
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.PerformConversion(String value, Type targetType)
+   --- End of inner exception stack trace ---
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion[TTarget](String value)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUpComponents(IConfiguration[] configurations, IWindsorContainer container, IConversionManager converter)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUp(IWindsorContainer container, IConfigurationStore store)
+   at Castle.Windsor.WindsorContainer.RunInstaller()
+   at Castle.Windsor.WindsorContainer..ctor(IConfigurationInterpreter interpreter)
+   at QL.Webapi.Bootstrapper.InitializeContainer() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Bootstrapper.cs:line 21
+2021-09-16 22:06:18,001 ERROR QL.Webapi.Bootstrapper - Error initializing application. 
+Castle.MicroKernel.SubSystems.Conversion.ConverterException: Could not convert from 'IdentityManagement.Authorization.FanxiAuthenticationBase, IdentityManagement, IdentityManagement' to System.Type. ---> System.IO.FileLoadException: The given assembly name or codebase was invalid. (Exception from HRESULT: 0x80131047)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase)
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.GetType(String name)
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.PerformConversion(String value, Type targetType)
+   --- End of inner exception stack trace ---
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion[TTarget](String value)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUpComponents(IConfiguration[] configurations, IWindsorContainer container, IConversionManager converter)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUp(IWindsorContainer container, IConfigurationStore store)
+   at Castle.Windsor.WindsorContainer.RunInstaller()
+   at Castle.Windsor.WindsorContainer..ctor(IConfigurationInterpreter interpreter)
+   at QL.Webapi.Bootstrapper.InitializeContainer() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Bootstrapper.cs:line 21
+2021-09-16 22:08:07,461 ERROR QL.Webapi.Bootstrapper - Error initializing application. 
+Castle.MicroKernel.SubSystems.Conversion.ConverterException: Could not convert from 'IdentityManagement.Authorization.FanxiAuthenticationBase, IdentityManagement, IdentityManagement' to System.Type. ---> System.IO.FileLoadException: The given assembly name or codebase was invalid. (Exception from HRESULT: 0x80131047)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase)
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.GetType(String name)
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.PerformConversion(String value, Type targetType)
+   --- End of inner exception stack trace ---
+   at Castle.MicroKernel.SubSystems.Conversion.TypeNameConverter.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion(String value, Type targetType)
+   at Castle.MicroKernel.SubSystems.Conversion.DefaultConversionManager.PerformConversion[TTarget](String value)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUpComponents(IConfiguration[] configurations, IWindsorContainer container, IConversionManager converter)
+   at Castle.Windsor.Installer.DefaultComponentInstaller.SetUp(IWindsorContainer container, IConfigurationStore store)
+   at Castle.Windsor.WindsorContainer.RunInstaller()
+   at Castle.Windsor.WindsorContainer..ctor(IConfigurationInterpreter interpreter)
+   at QL.Webapi.Bootstrapper.InitializeContainer() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Bootstrapper.cs:line 21
+2021-09-16 22:10:14,770 ERROR NHibernate.Cfg.Configuration - Could not add assembly eContract 
+NHibernate.MappingException: Could not add assembly eContract ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   --- End of inner exception stack trace ---
+2021-09-16 22:10:14,778 ERROR NHibernate.Cfg.Configuration - Problem parsing configuration 
+NHibernate.MappingException: Could not add assembly eContract ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   at NHibernate.Cfg.Configuration.DoConfigure(ISessionFactoryConfiguration factoryConfiguration)
+   at NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+2021-09-16 22:10:15,745 ERROR QL.Webapi.Controllers.AccountController - NHibernate.MappingException: Could not add assembly eContract ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   at NHibernate.Cfg.Configuration.DoConfigure(ISessionFactoryConfiguration factoryConfiguration)
+   at NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+   at NHibernate.Cfg.Configuration.Configure(String fileName, Boolean ignoreSessionFactoryConfig)
+   at NHibernate.Cfg.Configuration.Configure(String fileName)
+   at FX.Data.NHibernateSessionManager.GetSessionFactoryFor(String sessionFactoryConfigPath) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\SessionManagement\NHibernateSessionManager.cs:line 91
+   at FX.Data.NHibernateSessionManager.GetSessionFrom(String sessionFactoryConfigPath, IInterceptor interceptor) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\SessionManagement\NHibernateSessionManager.cs:line 153
+   at FX.Data.NHibernateSessionManager.GetSessionFrom(String sessionFactoryConfigPath) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\SessionManagement\NHibernateSessionManager.cs:line 131
+   at FX.Data.BaseService`2.get_NHibernateSession() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\BaseService.cs:line 342
+   at FX.Data.BaseService`2.get_Query() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\BaseService.cs:line 408
+   at QL.Webapi.Controllers.AccountController.Login(JWTTokenModel modelToken) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Controllers\AccountController.cs:line 40 
+2021-09-16 22:10:36,193 ERROR NHibernate.Cfg.Configuration - Could not add assembly eContract 
+NHibernate.MappingException: Could not add assembly eContract ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   --- End of inner exception stack trace ---
+2021-09-16 22:10:36,193 ERROR NHibernate.Cfg.Configuration - Problem parsing configuration 
+NHibernate.MappingException: Could not add assembly eContract ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   at NHibernate.Cfg.Configuration.DoConfigure(ISessionFactoryConfiguration factoryConfiguration)
+   at NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+2021-09-16 22:10:39,273 ERROR NHibernate.Cfg.Configuration - Could not add assembly eContract 
+NHibernate.MappingException: Could not add assembly eContract ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   --- End of inner exception stack trace ---
+2021-09-16 22:10:39,273 ERROR NHibernate.Cfg.Configuration - Problem parsing configuration 
+NHibernate.MappingException: Could not add assembly eContract ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   at NHibernate.Cfg.Configuration.DoConfigure(ISessionFactoryConfiguration factoryConfiguration)
+   at NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+2021-09-16 22:10:40,199 ERROR NHibernate.Cfg.Configuration - Could not add assembly eContract 
+NHibernate.MappingException: Could not add assembly eContract ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   --- End of inner exception stack trace ---
+2021-09-16 22:10:40,199 ERROR NHibernate.Cfg.Configuration - Problem parsing configuration 
+NHibernate.MappingException: Could not add assembly eContract ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   at NHibernate.Cfg.Configuration.DoConfigure(ISessionFactoryConfiguration factoryConfiguration)
+   at NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+2021-09-16 22:10:49,644 ERROR NHibernate.Cfg.Configuration - Could not add assembly eContract 
+NHibernate.MappingException: Could not add assembly eContract ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   --- End of inner exception stack trace ---
+2021-09-16 22:10:49,644 ERROR NHibernate.Cfg.Configuration - Problem parsing configuration 
+NHibernate.MappingException: Could not add assembly eContract ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   at NHibernate.Cfg.Configuration.DoConfigure(ISessionFactoryConfiguration factoryConfiguration)
+   at NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+2021-09-16 22:13:45,600 ERROR QL.Webapi.Jwt.JwtManager - Castle.MicroKernel.ComponentNotFoundException: No component for supporting the service QRCode.Service.IJWTTokenService was found
+   at Castle.MicroKernel.DefaultKernel.Resolve(Type service)
+   at Castle.Windsor.WindsorContainer.Resolve[T]()
+   at FX.Core.IoC.Resolve[T]()
+   at QL.Webapi.Jwt.JwtManager.GenerateToken(Int32 comId, String username, String[] roles, Int32 expireMinutes) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Jwt\JwtManager.cs:line 42 
+2021-09-16 22:18:03,562 ERROR QL.Webapi.Jwt.JwtManager - NHibernate.MappingException: No persister for: QRCode.Domain.JWTToken
+   at NHibernate.Impl.SessionFactoryImpl.GetEntityPersister(String entityName)
+   at NHibernate.Impl.SessionImpl.GetEntityPersister(String entityName, Object obj)
+   at NHibernate.Engine.ForeignKeys.IsTransient(String entityName, Object entity, Nullable`1 assumed, ISessionImplementor session)
+   at NHibernate.Event.Default.AbstractSaveEventListener.GetEntityState(Object entity, String entityName, EntityEntry entry, ISessionImplementor source)
+   at NHibernate.Event.Default.DefaultSaveOrUpdateEventListener.PerformSaveOrUpdate(SaveOrUpdateEvent event)
+   at NHibernate.Event.Default.DefaultSaveOrUpdateEventListener.OnSaveOrUpdate(SaveOrUpdateEvent event)
+   at NHibernate.Impl.SessionImpl.FireSaveOrUpdate(SaveOrUpdateEvent event)
+   at NHibernate.Impl.SessionImpl.SaveOrUpdate(Object obj)
+   at FX.Data.BaseService`2.Save(T entity) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\BaseService.cs:line 57
+   at QL.Webapi.Jwt.JwtManager.GenerateToken(Int32 comId, String username, String[] roles, Int32 expireMinutes) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Jwt\JwtManager.cs:line 98 
+2021-09-16 22:19:27,309 ERROR NHibernate.Util.ReflectHelper - Could not load type eContract.Domain.JWTToken, eContract. 
+System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+File name: 'eContract'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+
+=== Pre-bind state information ===
+LOG: DisplayName = eContract
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: eContract | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///D:/WorkPlace/HOME/DU_AN/QL.Webapi/QL.Webapi/
+LOG: Initial PrivatePath = D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin
+Calling assembly : NHibernate, Version=3.1.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\web.config
+LOG: Using host configuration file: C:\Users\nguye\OneDrive\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2021-09-16 22:19:27,317 ERROR NHibernate.Cfg.Configuration - Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml 
+NHibernate.MappingException: Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml ---> NHibernate.MappingException: persistent class eContract.Domain.JWTToken, eContract not found ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   at NHibernate.Cfg.XmlHbmBinding.ClassBinder.BindClass(IEntityMapping classMapping, PersistentClass model, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.RootClassBinder.Bind(HbmClass classSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.AddEntitiesMappings(HbmMapping mappingSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.Bind(HbmMapping mappingSchema)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   --- End of inner exception stack trace ---
+2021-09-16 22:19:27,318 ERROR NHibernate.Cfg.Configuration - Problem parsing configuration 
+NHibernate.MappingException: Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml ---> NHibernate.MappingException: persistent class eContract.Domain.JWTToken, eContract not found ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   at NHibernate.Cfg.XmlHbmBinding.ClassBinder.BindClass(IEntityMapping classMapping, PersistentClass model, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.RootClassBinder.Bind(HbmClass classSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.AddEntitiesMappings(HbmMapping mappingSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.Bind(HbmMapping mappingSchema)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   at NHibernate.Cfg.Configuration.ProcessMappingsQueue()
+   at NHibernate.Cfg.Configuration.AddInputStream(Stream xmlInputStream, String name)
+   at NHibernate.Cfg.Configuration.AddResource(String path, Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   at NHibernate.Cfg.Configuration.DoConfigure(ISessionFactoryConfiguration factoryConfiguration)
+   at NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+2021-09-16 22:19:27,328 ERROR QL.Webapi.Controllers.AccountController - NHibernate.MappingException: Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml ---> NHibernate.MappingException: persistent class eContract.Domain.JWTToken, eContract not found ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   at NHibernate.Cfg.XmlHbmBinding.ClassBinder.BindClass(IEntityMapping classMapping, PersistentClass model, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.RootClassBinder.Bind(HbmClass classSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.AddEntitiesMappings(HbmMapping mappingSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.Bind(HbmMapping mappingSchema)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   at NHibernate.Cfg.Configuration.ProcessMappingsQueue()
+   at NHibernate.Cfg.Configuration.AddInputStream(Stream xmlInputStream, String name)
+   at NHibernate.Cfg.Configuration.AddResource(String path, Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   at NHibernate.Cfg.Configuration.DoConfigure(ISessionFactoryConfiguration factoryConfiguration)
+   at NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+   at NHibernate.Cfg.Configuration.Configure(String fileName, Boolean ignoreSessionFactoryConfig)
+   at NHibernate.Cfg.Configuration.Configure(String fileName)
+   at FX.Data.NHibernateSessionManager.GetSessionFactoryFor(String sessionFactoryConfigPath) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\SessionManagement\NHibernateSessionManager.cs:line 91
+   at FX.Data.NHibernateSessionManager.GetSessionFrom(String sessionFactoryConfigPath, IInterceptor interceptor) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\SessionManagement\NHibernateSessionManager.cs:line 153
+   at FX.Data.NHibernateSessionManager.GetSessionFrom(String sessionFactoryConfigPath) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\SessionManagement\NHibernateSessionManager.cs:line 131
+   at FX.Data.BaseService`2.get_NHibernateSession() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\BaseService.cs:line 342
+   at FX.Data.BaseService`2.get_Query() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\BaseService.cs:line 408
+   at QL.Webapi.Controllers.AccountController.Login(JWTTokenModel modelToken) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Controllers\AccountController.cs:line 40 
+2021-09-16 22:19:33,501 ERROR NHibernate.Util.ReflectHelper - Could not load type eContract.Domain.JWTToken, eContract. 
+System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+File name: 'eContract'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+
+=== Pre-bind state information ===
+LOG: DisplayName = eContract
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: eContract | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///D:/WorkPlace/HOME/DU_AN/QL.Webapi/QL.Webapi/
+LOG: Initial PrivatePath = D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin
+Calling assembly : NHibernate, Version=3.1.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\web.config
+LOG: Using host configuration file: C:\Users\nguye\OneDrive\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2021-09-16 22:19:33,501 ERROR NHibernate.Cfg.Configuration - Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml 
+NHibernate.MappingException: Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml ---> NHibernate.MappingException: persistent class eContract.Domain.JWTToken, eContract not found ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   at NHibernate.Cfg.XmlHbmBinding.ClassBinder.BindClass(IEntityMapping classMapping, PersistentClass model, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.RootClassBinder.Bind(HbmClass classSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.AddEntitiesMappings(HbmMapping mappingSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.Bind(HbmMapping mappingSchema)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   --- End of inner exception stack trace ---
+2021-09-16 22:19:33,501 ERROR NHibernate.Cfg.Configuration - Problem parsing configuration 
+NHibernate.MappingException: Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml ---> NHibernate.MappingException: persistent class eContract.Domain.JWTToken, eContract not found ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   at NHibernate.Cfg.XmlHbmBinding.ClassBinder.BindClass(IEntityMapping classMapping, PersistentClass model, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.RootClassBinder.Bind(HbmClass classSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.AddEntitiesMappings(HbmMapping mappingSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.Bind(HbmMapping mappingSchema)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   at NHibernate.Cfg.Configuration.ProcessMappingsQueue()
+   at NHibernate.Cfg.Configuration.AddInputStream(Stream xmlInputStream, String name)
+   at NHibernate.Cfg.Configuration.AddResource(String path, Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   at NHibernate.Cfg.Configuration.DoConfigure(ISessionFactoryConfiguration factoryConfiguration)
+   at NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+2021-09-16 22:19:33,512 ERROR QL.Webapi.Controllers.AccountController - NHibernate.MappingException: Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml ---> NHibernate.MappingException: persistent class eContract.Domain.JWTToken, eContract not found ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   at NHibernate.Cfg.XmlHbmBinding.ClassBinder.BindClass(IEntityMapping classMapping, PersistentClass model, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.RootClassBinder.Bind(HbmClass classSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.AddEntitiesMappings(HbmMapping mappingSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.Bind(HbmMapping mappingSchema)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   at NHibernate.Cfg.Configuration.ProcessMappingsQueue()
+   at NHibernate.Cfg.Configuration.AddInputStream(Stream xmlInputStream, String name)
+   at NHibernate.Cfg.Configuration.AddResource(String path, Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   at NHibernate.Cfg.Configuration.DoConfigure(ISessionFactoryConfiguration factoryConfiguration)
+   at NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+   at NHibernate.Cfg.Configuration.Configure(String fileName, Boolean ignoreSessionFactoryConfig)
+   at NHibernate.Cfg.Configuration.Configure(String fileName)
+   at FX.Data.NHibernateSessionManager.GetSessionFactoryFor(String sessionFactoryConfigPath) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\SessionManagement\NHibernateSessionManager.cs:line 91
+   at FX.Data.NHibernateSessionManager.GetSessionFrom(String sessionFactoryConfigPath, IInterceptor interceptor) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\SessionManagement\NHibernateSessionManager.cs:line 153
+   at FX.Data.NHibernateSessionManager.GetSessionFrom(String sessionFactoryConfigPath) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\SessionManagement\NHibernateSessionManager.cs:line 131
+   at FX.Data.BaseService`2.get_NHibernateSession() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\BaseService.cs:line 342
+   at FX.Data.BaseService`2.get_Query() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\BaseService.cs:line 408
+   at QL.Webapi.Controllers.AccountController.Login(JWTTokenModel modelToken) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Controllers\AccountController.cs:line 40 
+2021-09-16 22:19:46,342 ERROR NHibernate.Util.ReflectHelper - Could not load type eContract.Domain.JWTToken, eContract. 
+System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+File name: 'eContract'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+
+=== Pre-bind state information ===
+LOG: DisplayName = eContract
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: eContract | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///D:/WorkPlace/HOME/DU_AN/QL.Webapi/QL.Webapi/
+LOG: Initial PrivatePath = D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin
+Calling assembly : NHibernate, Version=3.1.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\web.config
+LOG: Using host configuration file: C:\Users\nguye\OneDrive\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2021-09-16 22:19:46,343 ERROR NHibernate.Cfg.Configuration - Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml 
+NHibernate.MappingException: Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml ---> NHibernate.MappingException: persistent class eContract.Domain.JWTToken, eContract not found ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   at NHibernate.Cfg.XmlHbmBinding.ClassBinder.BindClass(IEntityMapping classMapping, PersistentClass model, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.RootClassBinder.Bind(HbmClass classSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.AddEntitiesMappings(HbmMapping mappingSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.Bind(HbmMapping mappingSchema)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   --- End of inner exception stack trace ---
+2021-09-16 22:19:46,344 ERROR NHibernate.Cfg.Configuration - Problem parsing configuration 
+NHibernate.MappingException: Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml ---> NHibernate.MappingException: persistent class eContract.Domain.JWTToken, eContract not found ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   at NHibernate.Cfg.XmlHbmBinding.ClassBinder.BindClass(IEntityMapping classMapping, PersistentClass model, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.RootClassBinder.Bind(HbmClass classSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.AddEntitiesMappings(HbmMapping mappingSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.Bind(HbmMapping mappingSchema)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   at NHibernate.Cfg.Configuration.ProcessMappingsQueue()
+   at NHibernate.Cfg.Configuration.AddInputStream(Stream xmlInputStream, String name)
+   at NHibernate.Cfg.Configuration.AddResource(String path, Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   at NHibernate.Cfg.Configuration.DoConfigure(ISessionFactoryConfiguration factoryConfiguration)
+   at NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+2021-09-16 22:19:46,594 ERROR NHibernate.Util.ReflectHelper - Could not load type eContract.Domain.JWTToken, eContract. 
+System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+File name: 'eContract'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+
+=== Pre-bind state information ===
+LOG: DisplayName = eContract
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: eContract | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///D:/WorkPlace/HOME/DU_AN/QL.Webapi/QL.Webapi/
+LOG: Initial PrivatePath = D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\bin
+Calling assembly : NHibernate, Version=3.1.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\web.config
+LOG: Using host configuration file: C:\Users\nguye\OneDrive\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2021-09-16 22:19:46,594 ERROR NHibernate.Cfg.Configuration - Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml 
+NHibernate.MappingException: Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml ---> NHibernate.MappingException: persistent class eContract.Domain.JWTToken, eContract not found ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   at NHibernate.Cfg.XmlHbmBinding.ClassBinder.BindClass(IEntityMapping classMapping, PersistentClass model, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.RootClassBinder.Bind(HbmClass classSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.AddEntitiesMappings(HbmMapping mappingSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.Bind(HbmMapping mappingSchema)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   --- End of inner exception stack trace ---
+2021-09-16 22:19:46,595 ERROR NHibernate.Cfg.Configuration - Problem parsing configuration 
+NHibernate.MappingException: Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml ---> NHibernate.MappingException: persistent class eContract.Domain.JWTToken, eContract not found ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   at NHibernate.Cfg.XmlHbmBinding.ClassBinder.BindClass(IEntityMapping classMapping, PersistentClass model, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.RootClassBinder.Bind(HbmClass classSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.AddEntitiesMappings(HbmMapping mappingSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.Bind(HbmMapping mappingSchema)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   at NHibernate.Cfg.Configuration.ProcessMappingsQueue()
+   at NHibernate.Cfg.Configuration.AddInputStream(Stream xmlInputStream, String name)
+   at NHibernate.Cfg.Configuration.AddResource(String path, Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   at NHibernate.Cfg.Configuration.DoConfigure(ISessionFactoryConfiguration factoryConfiguration)
+   at NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+2021-09-16 22:20:04,917 ERROR QL.Webapi.Controllers.AccountController - NHibernate.MappingException: Could not compile the mapping document: QRCode.Domain.JWTToken.hbm.xml ---> NHibernate.MappingException: persistent class eContract.Domain.JWTToken, eContract not found ---> System.IO.FileNotFoundException: Could not load file or assembly 'eContract' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NHibernate.Util.ReflectHelper.TypeFromAssembly(AssemblyQualifiedTypeName name, Boolean throwOnError)
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.XmlHbmBinding.Binder.ClassForFullNameChecked(String fullName, String errorMessage)
+   at NHibernate.Cfg.XmlHbmBinding.ClassBinder.BindClass(IEntityMapping classMapping, PersistentClass model, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.RootClassBinder.Bind(HbmClass classSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.AddEntitiesMappings(HbmMapping mappingSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.Bind(HbmMapping mappingSchema)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   --- End of inner exception stack trace ---
+   at NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   at NHibernate.Cfg.Configuration.ProcessMappingsQueue()
+   at NHibernate.Cfg.Configuration.AddInputStream(Stream xmlInputStream, String name)
+   at NHibernate.Cfg.Configuration.AddResource(String path, Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   at NHibernate.Cfg.Configuration.DoConfigure(ISessionFactoryConfiguration factoryConfiguration)
+   at NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+   at NHibernate.Cfg.Configuration.Configure(String fileName, Boolean ignoreSessionFactoryConfig)
+   at NHibernate.Cfg.Configuration.Configure(String fileName)
+   at FX.Data.NHibernateSessionManager.GetSessionFactoryFor(String sessionFactoryConfigPath) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\SessionManagement\NHibernateSessionManager.cs:line 91
+   at FX.Data.NHibernateSessionManager.GetSessionFrom(String sessionFactoryConfigPath, IInterceptor interceptor) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\SessionManagement\NHibernateSessionManager.cs:line 153
+   at FX.Data.NHibernateSessionManager.GetSessionFrom(String sessionFactoryConfigPath) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\SessionManagement\NHibernateSessionManager.cs:line 131
+   at FX.Data.BaseService`2.get_NHibernateSession() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\BaseService.cs:line 342
+   at FX.Data.BaseService`2.get_Query() in D:\WorkPlace\HOME\DU_AN\QL.Webapi\FanxiBase.data\BaseService.cs:line 408
+   at QL.Webapi.Controllers.AccountController.Login(JWTTokenModel modelToken) in D:\WorkPlace\HOME\DU_AN\QL.Webapi\QL.Webapi\Controllers\AccountController.cs:line 40 
